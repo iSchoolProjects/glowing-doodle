@@ -1,0 +1,30 @@
+@media only screen and (max-width: 912px){
+
+    .social-container{
+        margin: 0 auto;
+        align-self: center;
+        
+        
+    }
+    .ico-container{
+        display: flex;
+        justify-content: center;
+        
+        
+    }
+    .ico-container img{
+        width: 30px;
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 50%;
+        margin-right: 15px;
+        
+    }
+    p{
+        text-align: center;
+        color: grey;
+        font-size: 14px;
+    }
+    
+    
+}
