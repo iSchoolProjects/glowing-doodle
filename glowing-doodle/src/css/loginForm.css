@@ -1,0 +1,22 @@
+.forgot-password{
+    font-size: 12px;
+    margin-left: 220px;
+    margin-top:10px;
+}
+.register{
+    height: 40px;
+    width: 120px;
+    border: none;
+    background-color: #fff;
+    border-radius: 0 50px  50px 0;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.submit{
+    position: absolute;
+    bottom: -166px;
+}
+#password{
+    border-bottom: none;
+}
